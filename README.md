@@ -111,7 +111,7 @@ These questions cover almost everything required for Java interviews.
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/<repo-name>
+git clone https://github.com/MohitBidwai/JavaStreamsPractise.git
 
 
 Open in VS Code / IntelliJ / STS
